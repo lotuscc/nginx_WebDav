@@ -17,3 +17,5 @@
 127.0.0.1 - lpwm [25/Jul/2022:17:21:49 +0800] "GET /hello HTTP/1.1" 200 13 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71"
 127.0.0.1 - lotuscc [25/Jul/2022:17:22:40 +0800] "GET / HTTP/1.1" 200 256 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
 127.0.0.1 - lotuscc [25/Jul/2022:17:22:43 +0800] "GET / HTTP/1.1" 200 256 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+127.0.0.1 - lotuscc [25/Jul/2022:18:06:46 +0800] "GET / HTTP/1.1" 500 588 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+127.0.0.1 - lpwm [25/Jul/2022:18:06:53 +0800] "GET /hello HTTP/1.1" 200 13 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71"
