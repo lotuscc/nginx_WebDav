@@ -1,9 +1,9 @@
 相关介绍
 
 
-[HttpAuthBasic模块-Nginx中文文档](https://www.nginx.cn/doc/standard/httpauthbasic.html)
+[Module ngx_http_auth_basic_module](https://nginx.org/en/docs/http/ngx_http_auth_basic_module.html)
 
-[HttpDav模块-Nginx中文文档](https://www.nginx.cn/doc/optional/httpdav.html)
+[Module ngx_http_dav_module](https://nginx.org/en/docs/http/ngx_http_dav_module.html#dav_access)
 
 [Nginx默认access.log访问日志格式分析-牛人技术博客](http://www.nrjs.cn/maintenance/36.htm)
 
