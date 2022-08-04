@@ -59,3 +59,4 @@
 127.0.0.1 - lotuscc [26/Jul/2022:13:41:57 +0800] "OPTIONS / HTTP/1.1" 200 0 "-" "RaiDrive/2022.6.41.0"
 127.0.0.1 - lotuscc [26/Jul/2022:13:41:57 +0800] "PROPFIND / HTTP/1.1" 207 598 "-" "RaiDrive/2022.6.41.0"
 127.0.0.1 - lotuscc [26/Jul/2022:13:41:58 +0800] "PROPFIND / HTTP/1.1" 207 1539 "-" "RaiDrive/2022.6.41.0"
+127.0.0.1 - lpwm [26/Jul/2022:13:43:31 +0800] "GET / HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71"
